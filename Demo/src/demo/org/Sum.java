@@ -9,7 +9,7 @@ public class Sum {
 		b=10;
 		c=10;
 		d=10;
-		sum =a+b+c+d;
+		int sum =a+b+c+d;
 		System.out.println("sum = " + sum);
 	}
 
